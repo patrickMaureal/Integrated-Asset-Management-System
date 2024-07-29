@@ -1,0 +1,52 @@
+.spinner {
+  display: none;
+}
+.dt-search{
+	display: none;
+}
+.dt-length{
+	display: none;
+}
+.logo img {
+	max-height: 50px;
+}
+
+.header-nav .nav-profile img {
+	max-height: 50px;
+}
+.sidebar {
+	background-color: #43767f;
+	padding: 20px 0;
+}
+
+.sidebar-nav .nav-heading {
+	color: #fff;
+}
+
+.sidebar-nav .nav-link {
+	background: #5d96a5;
+	color: #fff;
+}
+
+.sidebar-nav .nav-link i {
+	color: #fff;
+}
+
+.sidebar-nav .nav-link.collapsed {
+  color: #fff;
+  background: #43767f;
+}
+
+.sidebar-nav .nav-link.collapsed i {
+  color: #fff;
+}
+
+.sidebar-nav .nav-link:hover {
+  color: #fff;
+  background: #5d96a5;
+}
+
+.sidebar-nav .nav-link:hover i {
+  color: #fff;
+}
+

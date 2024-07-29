@@ -1,0 +1,9 @@
+main{
+	background: linear-gradient(to right, #0298B0, #3CB687, #7BD759);
+}
+
+@media screen and (max-width: 768px) {
+	.login-logo {
+		display: none;
+	}
+}
